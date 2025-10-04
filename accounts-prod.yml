@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "New message has been added "
+  message: "New message has been added this is a test message "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
